@@ -1,4 +1,4 @@
-# Kempston_Controls_Assignment
+# Kempston Controls Assignment
 In response to the assignment provided by Kempston Controls as a part of the interview process, I've completed a comprehensive analysis and visualization task. 
 The assignment comprises two main files: 
 1) "KC_report.pbix"
